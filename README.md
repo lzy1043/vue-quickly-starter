@@ -28,10 +28,10 @@ npm test
 ```
 ## description
 
-* 1. add postcss and cssnext support
+* add postcss and cssnext support
 
-* 2. add prettier support 
+* add prettier support 
 
-* 3. add npmrc config
+* add npmrc config
 
-* 4. add babel-polyfill 
+* add babel-polyfill 
